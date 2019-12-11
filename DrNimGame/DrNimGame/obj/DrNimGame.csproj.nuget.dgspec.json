@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamst\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj": {}
+    "C:\\Users\\thojoh002\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamst\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj": {
+    "C:\\Users\\thojoh002\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamst\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj",
+        "projectUniqueName": "C:\\Users\\thojoh002\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj",
         "projectName": "DrNimGame",
-        "projectPath": "C:\\Users\\hamst\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj",
-        "packagesPath": "C:\\Users\\hamst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamst\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\obj\\",
+        "projectPath": "C:\\Users\\thojoh002\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\DrNimGame.csproj",
+        "packagesPath": "C:\\Users\\thojoh002\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thojoh002\\source\\repos\\CSharp-Skole-Oppgave\\DrNimGame\\DrNimGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hamst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thojoh002\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +42,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

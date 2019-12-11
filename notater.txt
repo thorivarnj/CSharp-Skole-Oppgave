@@ -1,0 +1,14 @@
+gi brukeren valg om å;
+//Se reglene
+//Velge vanskelighetsgrad
+
+	    starte
+// få meldingene til å vises på en lettere leselig måte
+Få spillet til å fungere ordentlig
+
+
+
+når spillet er ferdig;
+starte pånytt
+share score on facebook
+avslutte appen

@@ -1,0 +1,11 @@
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\bin\Debug\netcoreapp2.1\DrNimGame.deps.json
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\bin\Debug\netcoreapp2.1\DrNimGame.runtimeconfig.json
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\bin\Debug\netcoreapp2.1\DrNimGame.runtimeconfig.dev.json
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\bin\Debug\netcoreapp2.1\DrNimGame.dll
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\bin\Debug\netcoreapp2.1\DrNimGame.pdb
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\obj\Debug\netcoreapp2.1\DrNimGame.csprojAssemblyReference.cache
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\obj\Debug\netcoreapp2.1\DrNimGame.csproj.CoreCompileInputs.cache
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\obj\Debug\netcoreapp2.1\DrNimGame.AssemblyInfoInputs.cache
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\obj\Debug\netcoreapp2.1\DrNimGame.AssemblyInfo.cs
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\obj\Debug\netcoreapp2.1\DrNimGame.dll
+C:\Users\thojoh002\source\repos\CSharp-Skole-Oppgave\DrNimGame\DrNimGame\obj\Debug\netcoreapp2.1\DrNimGame.pdb
