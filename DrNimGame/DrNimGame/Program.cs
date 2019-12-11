@@ -28,7 +28,17 @@ namespace DrNimGame
 
                 // The user chooses how many tokens to take. He can choose between 1, 2 or 3.
                 userchoiceoftokens:
-                tokensToSubtract = Convert.ToInt32(Console.ReadLine());
+                try
+                {
+                    tokensToSubtract = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("Not a valid number");
+                    goto userchoiceoftokens;
+                }
+
+                
                 if (tokensToSubtract != 1 && tokensToSubtract != 2 && tokensToSubtract != 3)
                 {
                     Console.WriteLine("You have to choose between 1, 2 or 3 tokens");
@@ -54,8 +64,21 @@ namespace DrNimGame
             Console.WriteLine("Choose your difficulty, type in number 1, 2 or 3, with 1 being the easiest and 3 being the hardest");
 
             ChooseDifficulty:
-            int userChosendifficulty = Convert.ToInt32(Console.ReadLine());
-            if (userChosendifficulty != 1 && userChosendifficulty != 2 && userChosendifficulty != 3)
+            string userChosendifficulty = Console.ReadLine();
+            int difficulty = 0;
+
+            try
+            {
+                difficulty = Convert.ToInt32(userChosendifficulty);
+            }
+            catch
+            {
+                Console.WriteLine("You wrote an invalid difficulty please try again");
+                goto ChooseDifficulty;
+            }
+
+
+            if (difficulty != 1 && difficulty != 2 && difficulty != 3)
             {
                 Console.WriteLine("Invalid Difficulty");
                 goto ChooseDifficulty;
@@ -64,7 +87,7 @@ namespace DrNimGame
 
             int tokens = 0;
 
-            switch (userChosendifficulty)
+            switch (difficulty)
             {
                 case 1:
                     tokens = 12;
